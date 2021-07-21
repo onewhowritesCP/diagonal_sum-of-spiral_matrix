@@ -1,11 +1,11 @@
 # diagonal_sum-of-spiral_matrix
 Consider a spiral square matrix below:
 
-**1**  2  3  4   **5**
-16 **17** 18 **19** 6
-15 24 **25** 20  7
-14 **23** 22 **21** 8
-**13** 12 11 10 **9**
+|**1** | 2 | 3 | 4 |  **5** |
+|16 |**17** |18 |**19** |6|
+|15 |24| **25** |20  |7|
+|14 |**23** |22 |**21**| 8|
+|**13**| 12 |11 |10 |**9**|
 
 We have to find the sum of diagonal elements(highlighted elements) given a number **n** (odd number), where n*n is the number of elements to form square sprial matrix.
 For above matrix sum = 1+17+25+21+9+13+23+19+5 = 133
