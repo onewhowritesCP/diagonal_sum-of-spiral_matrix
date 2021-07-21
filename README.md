@@ -12,7 +12,7 @@ For above matrix sum = 1+17+25+21+9+13+23+19+5 = 133
 
 Example, if n=7, n*n = 49 then the matrix would look like:
 
-**1** &nbsp; &nbsp; 2&nbsp; &nbsp;   3 &nbsp;&nbsp;  4 &nbsp;&nbsp;  5 &nbsp;&nbsp;  6 &nbsp;&nbsp;  **7**<br />
+**1** &nbsp; &nbsp; 2&nbsp; &nbsp;   3 &nbsp;&nbsp;  4 &nbsp;&nbsp;  5 &nbsp;&nbsp;  6 &nbsp;&nbsp; **7**<br />
 24 **25** 26 27 28 **29** 8<br />
 23 40 **41** 42 **43** 30 9<br />
 22 39 48 **49** 44 31 10<br />
